@@ -32,8 +32,8 @@ In PEAR status of this package is: %{_status}.
 
 %description -l pl
 Ten pakiet dostarcza sterownik renderera generuj±cy formularz HTML
-pozwalaj±cy u¿ytkownik na ³atwe sortowanie tabel danych korzstaj±c z
-ró¿nych pól oraz typów sortowania. Wykorzystana jest do tego klasa
+pozwalaj±cy u¿ytkownikowi na ³atwe sortowanie tabel danych korzystaj±c
+z ró¿nych pól oraz typów sortowania. Wykorzystana jest do tego klasa
 HTML_QuickForm.
 
 Ta klasa ma w PEAR status: %{_status}.
