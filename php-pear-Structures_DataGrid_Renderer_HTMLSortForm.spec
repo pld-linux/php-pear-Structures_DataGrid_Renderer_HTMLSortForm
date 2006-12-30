@@ -6,12 +6,12 @@
 Summary:	%{_pearname} - Sorting form renderer for Structures_DataGrid
 Summary(pl):	%{_pearname} - renderer formularza sortuj±cego dla Structures_Datagrid
 Name:		php-pear-%{_pearname}
-Version:	0.1.0
-Release:	2
+Version:	0.1.2
+Release:	1
 License:	PHP License
 Group:		Development/Languages/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tgz
-# Source0-md5:	7baf1af4fc9984edd1b83dcb90f54a20
+# Source0-md5:	f8763394628b93a902841b498b607ae5
 URL:		http://pear.php.net/package/Structures_DataGrid_Renderer_HTMLSortForm/
 BuildRequires:	php-pear-PEAR
 BuildRequires:	rpm-php-pearprov >= 4.4.2-11
