@@ -4,7 +4,7 @@
 %define		_status		beta
 %define		_pearname	Structures_DataGrid_Renderer_HTMLSortForm
 Summary:	%{_pearname} - Sorting form renderer for Structures_DataGrid
-Summary(pl):	%{_pearname} - renderer formularza sortuj±cego dla Structures_Datagrid
+Summary(pl.UTF-8):   %{_pearname} - renderer formularza sortujÄ…cego dla Structures_Datagrid
 Name:		php-pear-%{_pearname}
 Version:	0.1.2
 Release:	1
@@ -29,10 +29,10 @@ HTML_Quickform package to do so.
 
 In PEAR status of this package is: %{_status}.
 
-%description -l pl
-Ten pakiet dostarcza sterownik renderera generuj±cy formularz HTML
-pozwalaj±cy u¿ytkownikowi na ³atwe sortowanie tabel danych korzystaj±c
-z ró¿nych pól oraz typów sortowania. Wykorzystana jest do tego klasa
+%description -l pl.UTF-8
+Ten pakiet dostarcza sterownik renderera generujÄ…cy formularz HTML
+pozwalajÄ…cy uÅ¼ytkownikowi na Å‚atwe sortowanie tabel danych korzystajÄ…c
+z rÃ³Å¼nych pÃ³l oraz typÃ³w sortowania. Wykorzystana jest do tego klasa
 HTML_QuickForm.
 
 Ta klasa ma w PEAR status: %{_status}.
