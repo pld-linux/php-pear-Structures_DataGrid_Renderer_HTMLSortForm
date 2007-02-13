@@ -4,7 +4,7 @@
 %define		_status		beta
 %define		_pearname	Structures_DataGrid_Renderer_HTMLSortForm
 Summary:	%{_pearname} - Sorting form renderer for Structures_DataGrid
-Summary(pl.UTF-8):   %{_pearname} - renderer formularza sortującego dla Structures_Datagrid
+Summary(pl.UTF-8):	%{_pearname} - renderer formularza sortującego dla Structures_Datagrid
 Name:		php-pear-%{_pearname}
 Version:	0.1.2
 Release:	1
