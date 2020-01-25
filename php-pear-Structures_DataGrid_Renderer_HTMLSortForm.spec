@@ -1,4 +1,3 @@
-%include	/usr/lib/rpm/macros.php
 %define		_status		beta
 %define		_pearname	Structures_DataGrid_Renderer_HTMLSortForm
 Summary:	%{_pearname} - Sorting form renderer for Structures_DataGrid
